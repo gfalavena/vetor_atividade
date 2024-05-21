@@ -39,7 +39,7 @@ namespace Atividade_Vetor
                 rg = Console.ReadLine();
                 Console.WriteLine("Digite o seu cpf: ");
                 cpf = Console.ReadLine();
-                Console.WriteLine("Paciente cadastrado com sucesso!");
+                Console.WriteLine("Cliente cadastrado com sucesso!");
                 Cliente cliente = new Cliente(nome, idade, rg, cpf);
                 clien[qntdfila] = cliente;
                 qntdfila++;
@@ -86,6 +86,7 @@ namespace Atividade_Vetor
                 rg = Console.ReadLine();
                 Console.WriteLine("Digite o seu cpf: ");
                 cpf = Console.ReadLine();
+                Console.WriteLine("Cliente com prioridade cadastrado com sucesso!");
                 Cliente clienteprioriário = new Cliente(nome, idade, rg, cpf, true);
 
                 for (int j = qntdfila - 1; j >= prioridade; j--)
