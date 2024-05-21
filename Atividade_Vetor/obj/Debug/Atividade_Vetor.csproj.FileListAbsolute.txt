@@ -1,0 +1,7 @@
+C:\Users\efala\source\repos\Atividade_Vetor\Atividade_Vetor\bin\Debug\Atividade_Vetor.exe.config
+C:\Users\efala\source\repos\Atividade_Vetor\Atividade_Vetor\bin\Debug\Atividade_Vetor.exe
+C:\Users\efala\source\repos\Atividade_Vetor\Atividade_Vetor\bin\Debug\Atividade_Vetor.pdb
+C:\Users\efala\source\repos\Atividade_Vetor\Atividade_Vetor\obj\Debug\Atividade_Vetor.csproj.AssemblyReference.cache
+C:\Users\efala\source\repos\Atividade_Vetor\Atividade_Vetor\obj\Debug\Atividade_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\efala\source\repos\Atividade_Vetor\Atividade_Vetor\obj\Debug\Atividade_Vetor.exe
+C:\Users\efala\source\repos\Atividade_Vetor\Atividade_Vetor\obj\Debug\Atividade_Vetor.pdb
