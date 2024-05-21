@@ -43,6 +43,8 @@ namespace Atividade_Vetor
                 Cliente cliente = new Cliente(nome, idade, rg, cpf);
                 clien[qntdfila] = cliente;
                 qntdfila++;
+            }else {
+                Console.WriteLine("Fila cheia!");
             }
         }
 
